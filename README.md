@@ -64,6 +64,12 @@ Framing text, and when possible the code comments, will be available in both Eng
 - **A.1.3** Link shapefiles to relevant scales
 - **A.1.4** Visualizing shapefiles and making basic maps
 
+  ```r
+
+#### Code goes here
+
+  ```
+
 #### A.2 Health Facilities
 - **A.2.1** Get MFL from the Malaria Program
   - **A.2.1.1** Useful Columns:
