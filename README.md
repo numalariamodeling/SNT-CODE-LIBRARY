@@ -1,6 +1,6 @@
 # CODE LIBRARY for SUB-NATIONAL TAILORING
 
-**Version**: 11 September 2024  
+**Version**: 13 September 2024  
 **Authors**: Mohamed Kanu, Sammy Oppong, Jaline Gerardin
 
 ## Table of Contents
