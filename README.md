@@ -63,12 +63,13 @@ Framing text, and when possible the code comments, will be available in both Eng
 - **A.1.2** Rename and match names
 - **A.1.3** Link shapefiles to relevant scales
 - **A.1.4** Visualizing shapefiles and making basic maps
+#### How to do it
+```r
 
-  ```r
+     The code goes here with step by step explanation
 
-#### Code goes here
 
-  ```
+```
 
 #### A.2 Health Facilities
 - **A.2.1** Get MFL from the Malaria Program
