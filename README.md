@@ -20,6 +20,12 @@
     - [A.7 Modeled data](#a7-modeled-data)
     - [A.8 Population data](#a8-population-data)
   - [B. EPIDEMIOLOGICAL STRATIFICATION](#b-epidemiological-stratification)
+    - [B.1 Reporting Rate per Variable](#b1-reporting-rate-per-variable)
+    - [B.2 Group and merge data frame](#b2-group-and-merge-data-frame)
+    - [B.3 Crude Incidence by Year](#b3-crude-incidence-by-year)
+    - [B.4 Adjusted Incidence by Year](#b4-adjusted-incidence-by-year)
+    - [B.5 Option to Select Incidence](#b5-option-to-select-incidence)
+    - [B.6 Risk Categorization](#b6-risk-categorization)
   - [C. STRATIFICATION OF OTHER DETERMINANTS](#c-stratification-of-other-determinants)
   - [D. REVIEW OF PAST INTERVENTIONS](#d-review-of-past-interventions)
   - [E. Targeting of interventions](#e-targeting-of-interventions)
@@ -208,13 +214,6 @@ HOW TO DO IT (THE CODE)
 ### F. Retrospective analysis
 ### G. Urban microstratification
 
-#### How to do it
-```r
-
-     The code goes here with step by step explanation
-
-
-```
 
 ---
 
