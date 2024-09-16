@@ -140,14 +140,42 @@ HOW TO DO IT (THE CODE)
 
 
 ### B. EPIDEMIOLOGICAL STRATIFICATION
-- **B.1** Reporting Rate per Variable
-- **B.2** Group and merge data frame
-- **B.3** Crude Incidence by Year
-- **B.4** Adjusted Incidence by Year
-- **B.5** Option to Select Incidence
-- **B.6** Risk Categorization
+#### B.1 Reporting Rate per Variable
 
-- #### How to do it
+```r
+
+     The code goes here with step by step explanation
+
+
+```
+#### B.2 Group and merge data frame
+
+```r
+
+     The code goes here with step by step explanation
+
+
+```
+#### B.3 Crude Incidence by Year
+
+```r
+
+     The code goes here with step by step explanation
+
+
+```
+#### B.4 Adjusted Incidence by Year
+
+```r
+
+     The code goes here with step by step explanation
+
+
+```
+#### B.5 Option to Select Incidence
+  ### The program can select the mean, median, or current incidence, Depending on what the program wants.
+#### B.6 Risk Categorization
+
 ```r
 
      The code goes here with step by step explanation
