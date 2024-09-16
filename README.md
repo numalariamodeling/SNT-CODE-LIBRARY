@@ -74,6 +74,21 @@ HOW TO DO IT(THE CODE)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 #### A.2 Health Facilities
 - **A.2.1** Get MFL from the Malaria Program
@@ -107,6 +122,17 @@ HOW TO DO IT (THE CODE)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 - **A.2.4** HF active / inactive status
@@ -117,26 +143,87 @@ HOW TO DO IT (THE CODE)
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 #### A.3 Routine case data from DHIS2
 - **A.3.1** Data extraction and import process
-- **A.3.2** Sanity Checks (column names, dataset length)
-- **A.3.3** Merging datasets, handling duplicates
-- **A.3.4** Data cleaning (exploration, renaming variables, handling missing data)
-- **A.3.5** Outlier detection and correction
-
-#### How to do it
+  
 ```r
 
      The code goes here with step by step explanation
 
 ```
+- **A.3.2** Sanity Checks (column names, dataset length)
+
+```r
+
+     The code goes here with step by step explanation
+
+```
+- **A.3.3** Merging datasets, handling duplicates
+  
+```r
+
+     The code goes here with step by step explanation
+
+```
+- **A.3.4** Data cleaning (exploration, renaming variables, handling missing data)
+
+```r
+
+     The code goes here with step by step explanation
+
+```
+- **A.3.5** Outlier detection and correction
+
+```r
+
+     The code goes here with step by step explanation
+
+```
+
 #### A.4 DHS data
+
+```r
+
+     The code goes here with step by step explanation
+
+```
 #### A.5 Climate data
+
+```r
+
+     The code goes here with step by step explanation
+
+```
 #### A.6 LMIS data
+
+```r
+
+     The code goes here with step by step explanation
+
+```
 #### A.7 Modeled data
+    Approach on how to do this
 #### A.8 Population data
+
+```r
+
+     The code goes here with step by step explanation
+
+```
 
 
 ### B. EPIDEMIOLOGICAL STRATIFICATION
@@ -214,20 +301,73 @@ HOW TO DO IT (THE CODE)
     
 
 ```
-
-```
+---
 
 
 ### D. REVIEW OF PAST INTERVENTIONS
 - **D.1** EPI Coverage and Dropout Rate
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.2** IPTp and ANC Coverage
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.3** PMC (Prevention of Malaria in Pregnancy)
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.4** SMC (Seasonal Malaria Chemoprevention)
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.5** Malaria Vaccine
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.6** ITN Ownership, Access, Usage, and Type
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.7** ITN Operational Coverage
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.8** IRS (Indoor Residual Spraying)
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.9** LSM (Larval Source Management)
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 - **D.10** Assessing the Quality of Case Management
 ```r
 
@@ -235,15 +375,26 @@ HOW TO DO IT (THE CODE)
 
 
 ```
-
 ---
 
 ### E. Targeting of interventions
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 ### F. Retrospective analysis
+```r
+
+     The code goes here with step by step explanation
+
+
+```
 ### G. Urban microstratification
 
 
 ---
 
 ## NB
-Draft version as of 13th September 2024.
+Draft version as of 16th September 2024.
