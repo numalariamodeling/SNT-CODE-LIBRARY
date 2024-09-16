@@ -65,6 +65,9 @@ Framing text, and when possible the code comments, will be available in both Eng
 - **A.1.4** Visualizing shapefiles and making basic maps
 ```r
 HOW TO DO IT(THE CODE)
+
+
+
 ```
 #### A.2 Health Facilities
 - **A.2.1** Get MFL from the Malaria Program
@@ -77,9 +80,7 @@ HOW TO DO IT(THE CODE)
     - Date HF started reporting
     - Is HF still active?
     - Type of HF (District hospital, health post, etc.)
-```r
-HOW TO DO IT ( THE CODE)
-```
+
   
 - **A.2.2** Get DHIS2 Health Facility (HF) List from the Malaria Program
   - **A.2.2.1** Useful Columns:
@@ -89,11 +90,6 @@ HOW TO DO IT ( THE CODE)
     - Is HF still active?
     - Type of HF (MCHP, CHP, CHC, Hospital)
    
-  #### How to do it
-```r
-HOW TO DO IT (THE CODE)
-```
-
 - **A.2.3** Reconciling the MFL and the DHIS2 HF list
   - **A.2.3.1** Identifying common HFs in both lists using fuzzy name matching
   - **A.2.3.2** Reconciling inconsistent HF Type
@@ -102,6 +98,9 @@ HOW TO DO IT (THE CODE)
     #### How to do it
 ```r
 HOW TO DO IT (THE CODE)
+
+
+
 ```
 
 - **A.2.4** HF active / inactive status
@@ -109,6 +108,9 @@ HOW TO DO IT (THE CODE)
  
 ```r
 HOW TO DO IT (THE CODE)
+
+
+
 ```
 
 #### A.3 Routine case data from DHIS2
@@ -122,7 +124,6 @@ HOW TO DO IT (THE CODE)
 ```r
 
      The code goes here with step by step explanation
-
 
 ```
 #### A.4 DHS data
@@ -152,19 +153,36 @@ HOW TO DO IT (THE CODE)
 
 ### C. STRATIFICATION OF OTHER DETERMINANTS
 - **C.1** Access to Care
-- **C.2** Seasonality
-- **C.3** Insecticide Resistance
-- **C.4** Anti-Malaria Drug Resistance
-
-#### How to do it
 ```r
+      
+     Access to care: The code goes here with step by step explanation
+    
 
-     The code goes here with step by step explanation
+```
+- **C.2** Seasonality
+```r
+      
+     Access to care: The code goes here with step by step explanation
+    
 
+```
+- **C.3** Insecticide Resistance
+```r
+      
+     Access to care: The code goes here with step by step explanation
+    
+
+```
+- **C.4** Anti-Malaria Drug Resistance
+```r
+      
+     Access to care: The code goes here with step by step explanation
+    
 
 ```
 
----
+```
+
 
 ### D. REVIEW OF PAST INTERVENTIONS
 - **D.1** EPI Coverage and Dropout Rate
@@ -177,8 +195,6 @@ HOW TO DO IT (THE CODE)
 - **D.8** IRS (Indoor Residual Spraying)
 - **D.9** LSM (Larval Source Management)
 - **D.10** Assessing the Quality of Case Management
-
-  #### How to do it
 ```r
 
      The code goes here with step by step explanation
